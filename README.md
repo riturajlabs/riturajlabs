@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ritu Raj</h1>
-<h3 align="center">AI & ML Student | Future ML Engineer | Software Developer from India 🇮🇳</h3>
+<h3 align="center">AI & ML Student | Full Stack Developer | Exploring Machine Learning & Data Science 🇮🇳</h3>
 
 ---
 
@@ -23,11 +23,14 @@
 ### Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### AI / Data Science  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 
 ### Tools  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)        ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
@@ -42,14 +45,28 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
-- 🔹 Stayora Property Rental Web App  
-- 🔹 Scientific Calculator Web App  
-- 🔹 Spotify Clone  
-- 🔹 Simon Says Game  
-- 🔹 Student Marks Management System  
-- 🔹 Todo Application  
+🔹 🌐 **Stayora Property Rental Web App**  
+  🔗  [Live Demo](https://stayora.up.railway.app/)   |  📂 [Repository](https://github.com/riturajlabs/Stayora)
+
+🔹 🌐 **Scientific Calculator Web App**  
+  🔗  [Live Demo](https://ritu-scientific-calculator.netlify.app/)  | 📂 [Repository](https://github.com/riturajlabs/Scientific-Calculator-Web-App)
+
+🔹 🌐 **Simon Says Game**  
+  🔗  [Live Demo](https://simon-says-game-by-rituraj.netlify.app/)   |   📂 [Repository](https://github.com/riturajlabs/Simon-Says-Game)
+
+🔹 📂 **Spotify Clone**  
+   [Repository](https://github.com/riturajlabs/Spotify-Clone)
+
+🔹 📂 **Student Marks Management System**  
+   [Repository](https://github.com/riturajlabs/Student-Marks-Management-System)
+
+🔹 📂 **Todo Application**  
+   [Repository](https://github.com/riturajlabs/Todo-App)
+
+ 
 
 ---
 

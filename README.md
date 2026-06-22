@@ -60,7 +60,7 @@
 🔹 📂 **Spotify Clone**  
   🔗  [Live Demo](https://by-spotify-clone.netlify.app/) [Repository](https://github.com/riturajlabs/Spotify-Clone)
 
-🔹 📂 **Student Marks Management System**  [Repository](https://github.com/riturajlabs/Student-Marks-Management-System)
+🔹 📂 **Student Marks Management System**  |  📂 [Repository](https://github.com/riturajlabs/Student-Marks-Management-System)
 
 🔹 📂 **Todo Application**  [Repository](https://github.com/riturajlabs/Todo-App)
 

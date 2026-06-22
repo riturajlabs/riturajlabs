@@ -57,7 +57,8 @@
 🔹 🌐 **Simon Says Game**  
   🔗  [Live Demo](https://simon-says-game-by-rituraj.netlify.app/)   |   📂 [Repository](https://github.com/riturajlabs/Simon-Says-Game)
 
-🔹 📂 **Spotify Clone**  [Repository](https://github.com/riturajlabs/Spotify-Clone)
+🔹 📂 **Spotify Clone**  
+  🔗  [Live Demo](https://by-spotify-clone.netlify.app/) [Repository](https://github.com/riturajlabs/Spotify-Clone)
 
 🔹 📂 **Student Marks Management System**  [Repository](https://github.com/riturajlabs/Student-Marks-Management-System)
 

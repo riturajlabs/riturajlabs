@@ -1,27 +1,21 @@
-
-
-<h1 align="center">Hi 👋, I'm Ritu Raj</h1>
-
-<h3 align="center">
-AI & ML Student • MERN Stack Developer • Aspiring AI Engineer 🇮🇳
-</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1026,40:2563EB,100:60A5FA&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Ritu%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-ML%20Student%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Aspiring%20AI%20Engineer&descAlignY=63&descSize=20"/>
+</p>
 
 <p align="center">
 Building real-world software today while preparing to build intelligent AI systems tomorrow.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
-</p>
+
 
 <p align="center">
-<a href="https://github.com/riturajlabs">
-<img src="https://komarev.com/ghpvc/?username=riturajlabs&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/riturajlabs?tab=followers">
-<img src="https://img.shields.io/github/followers/riturajlabs?label=Followers&logo=github&style=for-the-badge"/>
-</a>
+
+<img src="https://komarev.com/ghpvc/?username=riturajlabs&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/riturajlabs?label=FOLLOWERS&style=for-the-badge&logo=github&color=2563EB"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-22C55E?style=for-the-badge&logo=briefcase&logoColor=white"/>
+
 </p>
 
 ---

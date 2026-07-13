@@ -1,5 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1026,40:2563EB,100:60A5FA&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Ritu%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-ML%20Student%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Aspiring%20AI%20Engineer&descAlignY=63&descSize=20"/>
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,40:2563EB,100:60A5FA&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Ritu%20Raj&fontSize=40&fontColor=ffffff&animation=scaleIn&fontAlignY=30&desc=AI-ML%20Student%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=20"
+width="100%"
+/>
 </p>
 
 <p align="center">
@@ -262,7 +265,7 @@ I believe every project is an opportunity to grow as an engineer. My goal is to 
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer" width="100%"/>
 
 </p>
 

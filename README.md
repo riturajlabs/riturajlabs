@@ -18,7 +18,7 @@ Building real-world software today while preparing to build intelligent AI syste
 <a href="https://github.com/riturajlabs">
 <img src="https://komarev.com/ghpvc/?username=riturajlabs&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/riturajlabs?tab=followers">
 <img src="https://img.shields.io/github/followers/riturajlabs?label=Followers&logo=github&style=for-the-badge"/>
 </a>
@@ -113,7 +113,7 @@ A modern Airbnb-inspired property rental platform built with the MERN Stack.
 ### 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb" height="30"/>
 </p>
 
 <p align="center">
@@ -141,15 +141,19 @@ An advanced scientific calculator with modern UI.
 - Permutation & Combination
 - Responsive Design
 
+### 🛠 Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="30"/>
 </p>
 
 <p align="center">
 <a href="https://ritu-scientific-calculator.netlify.app">
 <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-  <a href=" https://github.com/riturajlabs/Scientific-Calculator-Web-App ">
+
+
+  <a href="https://github.com/riturajlabs/Scientific-Calculator-Web-App">
 <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -192,17 +196,17 @@ An advanced scientific calculator with modern UI.
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/riturajlabs/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-<a href="https://www.hackerrank.com/">
+&nbsp;&nbsp;
+<a href="https://www.hackerrank.com//profile/riturajlabs">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
---
+---
 
 # 🌐 Connect With Me
 
@@ -212,11 +216,11 @@ An advanced scientific calculator with modern UI.
 <a href="https://linkedin.com/in/riturajlabs">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/riturajlabs">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:riturajlabs@outlook.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
@@ -230,9 +234,9 @@ An advanced scientific calculator with modern UI.
 <p align="center">
 
 <img src="https://img.shields.io/badge/Open%20To-Internship-success?style=for-the-badge"/>
-
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AI%20Engineer-Goal-blue?style=for-the-badge"/>
-
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MERN%20Developer-Experienced-orange?style=for-the-badge"/>
 
 </p>

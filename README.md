@@ -13,11 +13,17 @@ Building real-world software today while preparing to build intelligent AI syste
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=riturajlabs&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/riturajlabs?label=FOLLOWERS&style=for-the-badge&logo=github&color=2563EB"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-22C55E?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<a href="https://github.com/riturajlabs">
+  <img src="https://komarev.com/ghpvc/?username=riturajlabs&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/riturajlabs?tab=followers">
+  <img src="https://img.shields.io/github/followers/riturajlabs?label=FOLLOWERS&style=for-the-badge&logo=github&color=2563EB" alt="Followers"/>
+</a>
+
+<a href="https://www.linkedin.com/in/riturajlabs/">
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Internship"/>
+</a>
 
 </p>
 

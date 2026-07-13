@@ -1,7 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Ritu Raj</h1>
 
 <h3 align="center">
-AI & ML Student • Aspiring AI Engineer • Full Stack Developer (MERN) 🇮🇳
+AI & ML Student • MERN Stack Developer • Aspiring AI Engineer 🇮🇳
 </h3>
 
 <p align="center">
@@ -9,7 +11,7 @@ Building real-world software today while preparing to build intelligent AI syste
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=38&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
 </p>
 
 <p align="center">
@@ -186,20 +188,37 @@ An advanced scientific calculator with modern UI.
 
 ---
 
+# 📈 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+--
+
 # 🌐 Connect With Me
+
 
 <p align="center">
 
 <a href="https://linkedin.com/in/riturajlabs">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/riturajlabs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-
+&nbsp;
 <a href="mailto:riturajlabs@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
@@ -229,7 +248,7 @@ I believe every project is an opportunity to grow as an engineer. My goal is to 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my GitHub Profile!
+⭐ Let's connect, collaborate, and build impactful technology together. 🚀
 </h3>
 
 <p align="center">
@@ -243,3 +262,4 @@ If you like my work, consider ⭐ starring my repositories and connecting with m
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer"/>
 
 </p>
+

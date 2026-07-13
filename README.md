@@ -9,7 +9,7 @@ Building real-world software today while preparing to build intelligent AI syste
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
 </p>
 
 <p align="center">
@@ -70,11 +70,11 @@ To become an **AI Engineer** by combining Artificial Intelligence, Machine Learn
 ```text
 ✅ MERN Stack
 
-🔄 Advanced Python
+✅ Advanced Python
 
-🔄 Data Structures & Algorithms
+✅ Data Structures & Algorithms
 
-🔄 Object-Oriented Programming
+✅ Object-Oriented Programming
 
 🔄 Machine Learning
 
@@ -119,7 +119,7 @@ A modern Airbnb-inspired property rental platform built with the MERN Stack.
 <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/riturajlabs">
+<a href="https://github.com/riturajlabs/Stayora">
 <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -147,6 +147,9 @@ An advanced scientific calculator with modern UI.
 <a href="https://ritu-scientific-calculator.netlify.app">
 <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+  <a href=" https://github.com/riturajlabs/Scientific-Calculator-Web-App ">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -155,9 +158,9 @@ An advanced scientific calculator with modern UI.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=riturajlabs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=riturajlabs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajlabs&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riturajlabs&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 

@@ -1,17 +1,48 @@
-
 <h1 align="center">Hi 👋, I'm Ritu Raj</h1>
-<h3 align="center">AI & ML Student | Full Stack Developer | Exploring Machine Learning & Data Science 🇮🇳</h3>
+
+<h3 align="center">
+AI & ML Student • Aspiring AI Engineer • Full Stack Developer (MERN) 🇮🇳
+</h3>
+
+<p align="center">
+Building real-world software today while preparing to build intelligent AI systems tomorrow.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
+</p>
+
+<p align="center">
+<a href="https://github.com/riturajlabs">
+<img src="https://komarev.com/ghpvc/?username=riturajlabs&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/riturajlabs?tab=followers">
+<img src="https://img.shields.io/github/followers/riturajlabs?label=Followers&logo=github&style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Sc Artificial Intelligence & Machine Learning Student  
-- 💻 Passionate about Software Development, Problem Solving & Building Scalable Applications  
-- 🤖 Exploring Artificial Intelligence, Machine Learning, Data Science and Backend Engineering  
-- 🌱 Currently learning **Python, DSA, Machine Learning, Java and System Design**  
-- 🔭 Building real world projects and improving every single day  
-- 🎯 Goal: Become an **AI Engineer / ML Engineer / Software Engineer**
+🎓 **B.Sc. in Artificial Intelligence & Machine Learning** student with a strong interest in building intelligent software and solving real-world problems.
+
+💻 I have hands-on experience in **Full Stack Web Development (MERN Stack)**, building responsive, scalable, and user-friendly web applications.
+
+🤖 Currently expanding my knowledge in:
+
+- Advanced Python
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- Generative AI
+
+🚀 I enjoy turning ideas into real-world applications, continuously improving my problem-solving abilities, and learning modern software engineering and AI technologies.
+
+🎯 **Career Goal**
+
+To become an **AI Engineer** by combining Artificial Intelligence, Machine Learning, and Full Stack Development to build impactful real-world products.
 
 ---
 
@@ -34,58 +65,178 @@
 
 ---
 
-## 📌 Current Focus
+# 📚 Currently Learning
 
-- Data Structures & Algorithms  
-- Python Programming  
-- Machine Learning  
-- Data Science  
-- Backend Development  
-- Building AI Projects  
+```text
+✅ MERN Stack
 
----
+🔄 Advanced Python
 
+🔄 Data Structures & Algorithms
 
-## 🚀 Featured Projects
+🔄 Object-Oriented Programming
 
-🔹 🌐 **Stayora Property Rental Web App**  
-  🔗  [Live Demo](https://stayora.up.railway.app/)   |  📂 [Repository](https://github.com/riturajlabs/Stayora)
+🔄 Machine Learning
 
-🔹 🌐 **Scientific Calculator Web App**  
-  🔗  [Live Demo](https://ritu-scientific-calculator.netlify.app/)  | 📂 [Repository](https://github.com/riturajlabs/Scientific-Calculator-Web-App)
+🔄 Deep Learning
 
-🔹 🌐 **Simon Says Game**  
-  🔗  [Live Demo](https://simon-says-game-by-rituraj.netlify.app/)   |   📂 [Repository](https://github.com/riturajlabs/Simon-Says-Game)
+🔄 PyTorch
 
-🔹 📂 **Spotify Clone**  
-  🔗  [Live Demo](https://by-spotify-clone.netlify.app/) [Repository](https://github.com/riturajlabs/Spotify-Clone)
+🔄 Generative AI
 
-🔹 📂 **Student Marks Management System**  |  📂 [Repository](https://github.com/riturajlabs/Student-Marks-Management-System)
+🔄 RAG
 
-🔹 📂 **Todo Application**  [Repository](https://github.com/riturajlabs/Todo-App)
+🔄 AI Agents
 
- 
+🔄 MLOps
+```
 
 ---
 
-## 🎯 Goals for 2026
+# 🚀 Featured Projects
 
-✔ Master Python  
-✔ Learn Machine Learning Deeply  
-✔ Build AI Based Real World Projects  
-✔ Contribute to Open Source  
-✔ Get Internship Opportunity in Tech Industry  
-✔ Become Better Than Yesterday  
+## 🏡 Stayora – Full Stack Property Rental Platform
+
+A modern Airbnb-inspired property rental platform built with the MERN Stack.
+
+### ✨ Highlights
+
+- 🔐 Authentication & Authorization
+- 🏠 Property Listings
+- ❤️ Wishlist
+- ⭐ Reviews & Ratings
+- ☁ Cloud Image Upload
+- 📱 Fully Responsive Design
+
+### 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb"/>
+</p>
+
+<p align="center">
+<a href="https://stayora.up.railway.app/listing">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/riturajlabs">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧮 Scientific Calculator
 
-- LinkedIn → https://www.linkedin.com/in/riturajlabs  
-- GitHub → https://github.com/riturajlabs  
-- Email → riturajlabs@outlook.com  
+An advanced scientific calculator with modern UI.
+
+### Features
+
+- Basic Arithmetic
+- Trigonometry
+- Logarithm
+- Factorial
+- Permutation & Combination
+- Responsive Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+<p align="center">
+<a href="https://ritu-scientific-calculator.netlify.app">
+<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-<h3 align="center">⭐ Learning • Building • Growing 🚀</h3>
+# 📊 GitHub Statistics
 
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=riturajlabs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajlabs&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=riturajlabs&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajlabs&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/riturajlabs">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/riturajlabs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:riturajlabs@outlook.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Open to Internship
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20To-Internship-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-Goal-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN%20Developer-Experienced-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+> **"Learn continuously. Build consistently. Improve relentlessly."**
+
+I believe every project is an opportunity to grow as an engineer. My goal is to combine Artificial Intelligence with Full Stack Development to build impactful, intelligent software that solves real-world problems.
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile!
+</h3>
+
+<p align="center">
+
+If you like my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer"/>
+
+</p>

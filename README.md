@@ -11,7 +11,7 @@ Building real-world software today while preparing to build intelligent AI syste
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=38&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
 </p>
 
 <p align="center">
@@ -200,7 +200,7 @@ An advanced scientific calculator with modern UI.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.hackerrank.com//profile/riturajlabs">
+<a href="https://www.hackerrank.com/profile/riturajlabs">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -237,7 +237,7 @@ An advanced scientific calculator with modern UI.
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AI%20Engineer-Goal-blue?style=for-the-badge"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MERN%20Developer-Experienced-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN%20Developer-Builder-orange?style=for-the-badge"/>
 
 </p>
 
@@ -252,13 +252,18 @@ I believe every project is an opportunity to grow as an engineer. My goal is to 
 ---
 
 <h3 align="center">
-⭐ Let's connect, collaborate, and build impactful technology together. 🚀
+⭐ Thanks for visiting my profile!
 </h3>
 
 <p align="center">
+  I'm continuously learning, building, and sharing my journey toward becoming an AI Engineer.
+</p>
 
-If you like my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
-
+<p align="center">
+    If you find my projects helpful, consider ⭐ starring the repositories and connecting with me on 
+    <a href="https://www.linkedin.com/in/riturajlabs/" style="text-decoration:none;">
+      LinkedIn
+    </a>.
 </p>
 
 <p align="center">

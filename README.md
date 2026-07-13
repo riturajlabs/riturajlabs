@@ -232,20 +232,6 @@ An advanced scientific calculator with modern UI.
 
 ---
 
-# 💼 Open to Internship
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Open%20To-Internship-success?style=for-the-badge"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AI%20Engineer-Goal-blue?style=for-the-badge"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MERN%20Developer-Builder-orange?style=for-the-badge"/>
-
-</p>
-
----
-
 # 💭 Developer Philosophy
 
 > **"Learn continuously. Build consistently. Improve relentlessly."**

@@ -9,7 +9,7 @@ width="100%"
 Building real-world software today while preparing to build intelligent AI systems tomorrow.
 </p>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
 
 <p align="center">
 

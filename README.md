@@ -7,7 +7,7 @@ width="100%"
 </p>
 
 <p align="center">
-🚀 Passionate about building scalable Full Stack applications today and intelligent AI-powered systems tomorrow.
+🚀 Building scalable software today and intelligent AI systems for tomorrow.
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
@@ -34,13 +34,17 @@ width="100%"
 
 🎓 **B.Sc. in Artificial Intelligence & Machine Learning** student passionate about building intelligent software and solving real-world problems.
 
-💻 Experienced in **Full Stack Web Development (MERN Stack)**, creating responsive, scalable, and user-friendly web applications.
+💻 Experienced in **Full Stack Web Development (MERN Stack)**, building responsive, scalable, and user-friendly web applications.
+
+💡 Passionate about solving real-world problems through Software Engineering and Artificial Intelligence.
 
 🤖 Currently learning **Advanced Python, Data Structures & Algorithms, Machine Learning, Deep Learning, and Generative AI** while strengthening my software engineering skills.
 
 🎯 **Career Goal**
 
 To become an **AI Engineer** by combining Artificial Intelligence, Machine Learning, and Full Stack Development to build impactful real-world products.
+
+> *"Code. Learn. Build. Repeat."*
 
 ---
 
@@ -65,29 +69,16 @@ To become an **AI Engineer** by combining Artificial Intelligence, Machine Learn
 
 # 📚 Currently Learning
 
-```text
-✅ MERN Stack
-
-✅ Advanced Python
-
-✅ Data Structures & Algorithms
-
-✅ Object-Oriented Programming
-
-🔄 Machine Learning
-
-🔄 Deep Learning
-
-🔄 PyTorch
-
-🔄 Generative AI
-
-🔄 RAG
-
-🔄 AI Agents
-
-🔄 MLOps
-```
+- ✅ MERN Stack
+- ✅ Advanced Python
+- ✅ Data Structures & Algorithms
+- ✅ Object-Oriented Programming
+- 🔄 Machine Learning
+- 🔄 Deep Learning
+- 🔄 PyTorch
+- 🔄 Generative AI
+- 🔄 RAG & AI Agents
+- 🔄 MLOps
 
 ---
 
@@ -214,15 +205,6 @@ A responsive scientific calculator supporting arithmetic operations, trigonometr
 <p align="center">
 Building • Learning • Growing toward becoming an AI Engineer 🚀
 </p>
-
-<p align="center">
-    If you find my projects helpful, consider ⭐ starring the repositories and connecting with me on 
-    <a href="https://www.linkedin.com/in/riturajlabs/" style="text-decoration:none;">
-      LinkedIn
-    </a>.
-</p>
-
-<p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer" width="100%"/>
 

@@ -28,6 +28,22 @@ width="100%"
 
 </p>
 
+<p align="center">
+
+<a href="https://github.com/riturajlabs/Stayora">
+<img src="https://img.shields.io/badge/🚀_Best_Project-Stayora-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/riturajlabs/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:riturajlabs@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 # 🚀 About Me
@@ -38,7 +54,7 @@ width="100%"
 
 💡 Passionate about solving real-world problems through Software Engineering and Artificial Intelligence.
 
-🤖 Currently learning **Advanced Python, Data Structures & Algorithms, Machine Learning, Deep Learning, and Generative AI** while strengthening my software engineering skills.
+🌱 Currently exploring **Advanced Python, DSA, Machine Learning, Deep Learning, Generative AI, and AI Agents**.
 
 🎯 **Career Goal**
 
@@ -199,6 +215,12 @@ A responsive scientific calculator supporting arithmetic operations, trigonometr
 
 <p align="center">
 Building • Learning • Growing toward becoming an AI Engineer 🚀
+</p>
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories.
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer" width="100%"/>

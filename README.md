@@ -1,3 +1,4 @@
+
 <p align="center">
 <img 
 src="https://capsule-render.vercel.app/api?type=waving&transition=fadeIn&height=220&color=0:0B1026,40:2563EB,100:60A5FA&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Ritu%20Raj&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=AI-ML%20Student%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=25"
@@ -6,7 +7,7 @@ width="100%"
 </p>
 
 <p align="center">
-Building real-world software today while preparing to build intelligent AI systems tomorrow.
+🚀 Passionate about building scalable Full Stack applications today and intelligent AI-powered systems tomorrow.
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Aspiring+AI+Engineer;Full+Stack+Developer+(MERN);Learning+Advanced+Python+%7C+DSA+%7C+Machine+Learning;Building+Real-World+Applications" />
@@ -31,19 +32,11 @@ Building real-world software today while preparing to build intelligent AI syste
 
 # 🚀 About Me
 
-🎓 **B.Sc. in Artificial Intelligence & Machine Learning** student with a strong interest in building intelligent software and solving real-world problems.
+🎓 **B.Sc. in Artificial Intelligence & Machine Learning** student passionate about building intelligent software and solving real-world problems.
 
-💻 I have hands-on experience in **Full Stack Web Development (MERN Stack)**, building responsive, scalable, and user-friendly web applications.
+💻 Experienced in **Full Stack Web Development (MERN Stack)**, creating responsive, scalable, and user-friendly web applications.
 
-🤖 Currently expanding my knowledge in:
-
-- Advanced Python
-- Data Structures & Algorithms
-- Machine Learning
-- Deep Learning
-- Generative AI
-
-🚀 I enjoy turning ideas into real-world applications, continuously improving my problem-solving abilities, and learning modern software engineering and AI technologies.
+🤖 Currently learning **Advanced Python, Data Structures & Algorithms, Machine Learning, Deep Learning, and Generative AI** while strengthening my software engineering skills.
 
 🎯 **Career Goal**
 
@@ -102,16 +95,7 @@ To become an **AI Engineer** by combining Artificial Intelligence, Machine Learn
 
 ## 🏡 Stayora – Full Stack Property Rental Platform
 
-A modern Airbnb-inspired property rental platform built with the MERN Stack.
-
-### ✨ Highlights
-
-- 🔐 Authentication & Authorization
-- 🏠 Property Listings
-- ❤️ Wishlist
-- ⭐ Reviews & Ratings
-- ☁ Cloud Image Upload
-- 📱 Fully Responsive Design
+A full-stack Airbnb-inspired rental platform featuring authentication, property listings, wishlists, reviews, cloud image uploads, and a fully responsive user experience.
 
 ### 🛠 Tech Stack
 
@@ -133,16 +117,7 @@ A modern Airbnb-inspired property rental platform built with the MERN Stack.
 
 ## 🧮 Scientific Calculator
 
-An advanced scientific calculator with modern UI.
-
-### Features
-
-- Basic Arithmetic
-- Trigonometry
-- Logarithm
-- Factorial
-- Permutation & Combination
-- Responsive Design
+A responsive scientific calculator supporting arithmetic operations, trigonometry, logarithms, factorials, permutations, combinations, and a modern user interface.
 
 ### 🛠 Tech Stack
 
@@ -232,20 +207,12 @@ An advanced scientific calculator with modern UI.
 
 ---
 
-# 💭 Developer Philosophy
-
-> **"Learn continuously. Build consistently. Improve relentlessly."**
-
-I believe every project is an opportunity to grow as an engineer. My goal is to combine Artificial Intelligence with Full Stack Development to build impactful, intelligent software that solves real-world problems.
-
----
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
 </h3>
 
 <p align="center">
-  I'm continuously learning, building, and sharing my journey toward becoming an AI Engineer.
+Building • Learning • Growing toward becoming an AI Engineer 🚀
 </p>
 
 <p align="center">

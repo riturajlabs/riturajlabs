@@ -43,7 +43,7 @@ width="100%"
 
 🌱 Currently exploring **Advanced Python, DSA, Machine Learning, Deep Learning, Generative AI, and AI Agents**.
 
-🎯 **Career Goal**
+### 🎯 Career Goal
 
 To become an **AI Engineer** by combining Artificial Intelligence, Machine Learning, and Full Stack Development to build impactful real-world products.
 
